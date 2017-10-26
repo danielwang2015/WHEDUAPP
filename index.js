@@ -1,4 +1,4 @@
 import { AppRegistry } from 'react-native';
-import App from './App';
+import AppRoot from './Screens/App';
 
-AppRegistry.registerComponent('HWAPP', () => App);
+AppRegistry.registerComponent('HWAPP', () => AppRoot);
